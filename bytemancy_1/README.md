@@ -57,7 +57,7 @@ cat app.py
 python3 -c 'print("e"*1751)'
 ```
 
-![scripting](sripting.png)
+![scripting](scripting.png)
 3. Connect to the challenge instance and paste
 
 ```bash
