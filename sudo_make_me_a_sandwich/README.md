@@ -48,7 +48,7 @@ The remote system does not recognize the `xterm-kitty` terminaal type, so we ove
 export TERM=xterm
 ```
 
-![terminal_environment](terminal_enviornment.png)
+![terminal_environment](terminal_environment.png)
 
 2. Spawn Root Shell via Emacs:
 
