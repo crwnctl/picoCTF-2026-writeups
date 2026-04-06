@@ -34,7 +34,7 @@ We discover that the user can run `/bin/emacs` as root without a password.
 
 This is a misconfiguration that allows for privilege escalation.
 
-![privileges](priviliges.png)
+![privileges](privileges.png)
 
 ---
 
@@ -48,7 +48,7 @@ The remote system does not recognize the `xterm-kitty` terminaal type, so we ove
 export TERM=xterm
 ```
 
-![terminal_environment](terminal_enviorment.png)
+![terminal_environment](terminal_enviornment.png)
 
 2. Spawn Root Shell via Emacs:
 
