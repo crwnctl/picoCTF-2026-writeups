@@ -85,7 +85,7 @@ Important observations:
 ```bash
 objdump -g vuln
 ```
-From the functino layout, the address of `win()` is:
+From the function layout, the address of `win()` is:
 ```bash
 0x401176
 ```
@@ -123,6 +123,7 @@ Then answer the quiz questions:
 
 ## 🚩 Flag
 
-Answering all the quiz questions correctly gives us the flag: picoCTF{my_b1n04y_3xpl0it_fl0g_14e96da2}
+Answering all the quiz questions correctly gives us the flag:
+`picoCTF{my_b1n04y_3xpl0it_fl0g_14e96da2}`
 
 ![question13_flag](question13_flag.png)
