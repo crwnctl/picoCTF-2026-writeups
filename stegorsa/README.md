@@ -1,6 +1,6 @@
 # 🔥 Challenge: Challenge Name
 
-**Category:** Cryptography 
+**Category:** Cryptography  
 **Difficulty:** Easy  
 **Points:** 50 
 
