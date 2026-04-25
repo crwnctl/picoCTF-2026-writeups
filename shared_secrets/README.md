@@ -1,8 +1,8 @@
 # 🔥 Challenge: Shared Secrets
 
-**Category:** Cryptography
-**Difficulty:**  Easy
-**Points:** 50
+**Category:** Cryptography  
+**Difficulty:**  Easy  
+**Points:** 50  
 
 ---
 
@@ -28,6 +28,7 @@ cd Downloads/
 ls
 ```
 ![provided_files](provided_files.png)
+
 2. Show Content
 ```bash
 cat message.txt
@@ -35,12 +36,14 @@ cat encryption.py
 ```
 ![message.txt](message.txt.png)
 ![encryption.py](encryption.py.png)
+
 3. Edit `encryption.py`
 ```bash
 gedit encryption.py
 ```
 ![gedit_original](gedit_original.png)
 ![gedit_new](gedit_new.png)
+
 4. Run `encryption.py`
 ```bash
 python3 encryption.py
